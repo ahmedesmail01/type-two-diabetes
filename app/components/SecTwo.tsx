@@ -8,11 +8,11 @@ import Marq from "./Marq";
 
 const SecTwo = () => {
   return (
-    <div className="relative z-40 flex max-w-full  flex-col px-6 md:px-8 lg:px-[166px] gap-4 justify-center  mb-[60px] md:mb-[96px] ">
+    <div className="relative z-40 flex max-w-full flex-col px-6 md:px-8 lg:px-[166px] gap-4 justify-center  mb-[60px] md:mb-[96px] ">
       <Marq />
       <div
         dir="rtl"
-        className=" w-full flex py-8  flex-col justify-center items-center  lg:flex lg:flex-row-reverse lg:items-center lg:justify-center gap-10 "
+        className=" w-full  flex py-8 px-14   flex-col justify-center items-center  lg:flex lg:flex-row-reverse lg:items-center lg:justify-center gap-10 "
       >
         <Image src={cardPhoto} alt="photo" className="hidden lg:flex z-40" />
         <Image
@@ -20,14 +20,14 @@ const SecTwo = () => {
           alt="photo"
           className="block lg:hidden w-[300px] z-40"
         />
-        <div className="  w-full flex flex-col  px-4    gap-4 lg:justify-center h-auto  lg:items-start">
+        <div className="  w-full flex flex-col  px-4  gap-4 lg:justify-center h-auto  lg:items-start">
           {/* triangles pattern */}
 
-          <h1 className="  text-[#000000]  lg:text-right mb-[20px] [font-family:--font-monadi] w-full  text-[18px]  lg:text-[28px] font-normal ">
+          <h1 className="  text-[#000000] text-center lg:text-right mb-[20px] [font-family:--font-monadi]   text-[18px]  lg:text-[28px] font-normal ">
             جلسات الاتزان شفاء (السكري من النوع الثاني){" "}
           </h1>
 
-          <bdi className=" text-[#353535] text-right [font-family:--font-cairo] self-stretch  text-[15px] lg:text-[15px] font-bold ">
+          <bdi className=" text-[#353535]  lg:text-right [font-family:--font-cairo]   text-[15px] lg:text-[15px] font-bold ">
             تعتمد المجموعات العلاجية &quot;جلسات الاتزان شفاء&quot; على تفعيل
             آلية التشافي الذاتي
           </bdi>

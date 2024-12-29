@@ -15,7 +15,7 @@ const Disease = () => {
     <div className="relative z-40 flex max-w-full  flex-col px-6 md:px-8 lg:px-[166px] gap-4 justify-center  mb-[60px] md:mb-[96px] ">
       <div
         dir="rtl"
-        className=" w-full flex py-8  flex-col justify-center items-center  lg:flex lg:flex-row lg:items-center lg:justify-center gap-10 "
+        className=" w-full flex py-8  px-14  flex-col justify-center items-center  lg:flex lg:flex-row lg:items-center lg:justify-center gap-10 "
       >
         <Image src={cardPhoto} alt="photo" className="hidden lg:flex z-40" />
         <Image

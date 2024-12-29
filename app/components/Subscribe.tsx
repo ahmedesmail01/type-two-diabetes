@@ -15,7 +15,7 @@ const Subscribe = () => {
       </p>
 
       <div className="lg:w-[694px] p-[24px] lg:p-[48px] flex flex-col gap-4 items-center border-2 border-[#4e2a84] rounded-3xl">
-        <h2 className="self-stretch text-[#000000] text-center [font-family:--font-cairo] text-2xl font-bold leading-6">
+        <h2 className="self-stretch text-[#000000] text-center [font-family:--font-cairo] text-2xl font-bold leading-10">
           مدة المجموعة العلاجية: 3 أشهر
         </h2>
         <p className="self-stretch text-[#000000] text-center [font-family:--font-expo] text-xl font-medium leading-6">
@@ -24,7 +24,7 @@ const Subscribe = () => {
         <p className="text-[#4e2a84] text-[50px] font-bold  text-center [font-family:--font-expo]">
           1650$
         </p>
-        <p className="text-[#4e2a84] text-[30px] font-bold  text-center [font-family:--font-expo]">
+        <p className="text-[#4e2a84] text-lg lg:text-[30px] font-bold  text-center [font-family:--font-expo]">
           خصم إضافي 150$ عند الدفع نقدًا 
         </p>
         <bdi className="self-stretch text-[#000000] text-center [font-family:--font-expo] text-xl font-semibold leading-6">
