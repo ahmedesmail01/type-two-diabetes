@@ -31,7 +31,7 @@ const Subscribe = () => {
           12 لقاء مع دكتور أحمد الدملاوي
         </bdi>
         <a
-          href="https://payment.mtnhealingcenter.com/payment/8a7dac25-c00f-44e8-8815-c217ec0cbf23"
+          href="https://payment.mtnhealingcenter.com/payment/448a9a14-16f0-42cc-a4b0-77872fad8a19"
           className="flex justify-center font-bold items-center text-white [font-family:--font-expo] lg:text-[32px] gap-1 self-stretch bg-gradient-to-tr from-[#532a80] to-[#a12c53] px-4 py-8 rounded-[20px]"
         >
           أشترك الان

@@ -52,7 +52,7 @@ const Subs = () => {
         </div>
       </div>
       <a
-        // href="https://payment.mtnhealingcenter.com/payment/c9604505-8cd1-451d-b454-c65a18abfbcd"
+        href="https://payment.mtnhealingcenter.com/payment/448a9a14-16f0-42cc-a4b0-77872fad8a19"
         className="flex text-white cursor-pointer z-50 [font-family: --font-avenir] font-bold text-sm lg:text-lg w-[247px] h-[55px] justify-center items-center gap-2 bg-gradient-to-tr from-[#532a80] to-[#a12c53] shadow-md px-4 py-2 rounded-lg"
       >
         اشترك الان
